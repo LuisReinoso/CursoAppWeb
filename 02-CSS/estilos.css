@@ -1,0 +1,32 @@
+h1 {
+    background-color: aliceblue;
+}
+div {
+    background-color: brown;
+    color: blueviolet;
+}
+
+.boton-cuidado {
+    background-color: green;
+    color: aquamarine;
+}
+
+
+#co {
+    background-color: antiquewhite;
+}
+
+.boton-exito {
+    background-color: red;
+    color: darkgoldenrod;
+}
+.animacion
+button:hover {
+    background-color: green;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: violet;
+    font-size: 5em;
+}
