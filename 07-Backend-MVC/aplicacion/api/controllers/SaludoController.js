@@ -24,7 +24,7 @@ module.exports = {
 
 	 let nuevoUsuario = {
 		 nombre: 'Luis',
-		 apellido: 'Reinoso',
+		 apellidos: 'Reinoso',
 		 password: '2232',
 		 correo: 'asds@mail.com',
 		 fechaNacimiento: new Date()
@@ -37,8 +37,10 @@ module.exports = {
 		 } else {
 			 return res.ok(usuarioCreado);
 		 }
-		 
+
 	 })
- }
+ },
+
+
 
 };

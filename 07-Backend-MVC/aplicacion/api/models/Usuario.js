@@ -14,6 +14,9 @@ module.exports = {
         },
         fechaNacimiento: {
             type: 'date'
+        },
+        prueba: {
+            type:'string'
         }
     }
 };
